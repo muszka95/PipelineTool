@@ -1,0 +1,5 @@
+#ignore compiled python files
+*.pyc
+
+#ignore settings-file that may get generated when running m2u
+settings.cfg
